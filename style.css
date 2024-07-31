@@ -5,7 +5,10 @@
    box-sizing: border-box; 
 }
 body{
-    background: #222;
+    height: 100vh;
+    background: linear-gradient(#5b548a,#00feba);
+    overflow: hidden;
+
 }
 .card{
     width: 90%;
